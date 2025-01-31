@@ -17,4 +17,6 @@ Yaesu has not tested this solution
 
 USE AT YOUR OWN RISK/COMFORT!
 
+I assume no liability for any damage caused while using this open source device, user asssumes all the liability.
+
 For more detailed information:
