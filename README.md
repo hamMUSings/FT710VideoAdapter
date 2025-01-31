@@ -19,4 +19,7 @@ USE AT YOUR OWN RISK/COMFORT!
 
 I assume no liability for any damage caused while using this open source device, user asssumes all the liability.
 
-For more detailed information:
+![3D](https://github.com/user-attachments/assets/82a9fca6-15d9-4b6d-9d0a-72de8fd812fe)
+
+![FT710VideoAdapterSchematic](https://github.com/user-attachments/assets/4634ef83-51f1-4897-89c0-f921cefc03d4)
+
